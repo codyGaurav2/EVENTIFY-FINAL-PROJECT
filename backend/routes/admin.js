@@ -59,7 +59,7 @@ const {
   getRevenueTrends,
   getTopContent,
 
-} = require("../controllers/adminController");
+} = require("../controllers/AdminController");
 
 // ======================================================
 // CITY CONTROLLERS
